@@ -3,7 +3,7 @@
 
   "name": "Jira Board Horizontal Scrolling",
   "description": "Adds scrolling to Jira Agile boards",
-  "version": "1.3",
+  "version": "1.5",
 
 
   "permissions": [
