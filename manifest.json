@@ -16,8 +16,6 @@
       "matches": ["https://dollarshaveclub.atlassian.net/secure/RapidBoard.jspa*"],
       "css": ["agileboard.css"],
       "js": [
-        "iscroll-lite.js",
-        "agile-board-scroll.js"
       ]
     }
   ]
